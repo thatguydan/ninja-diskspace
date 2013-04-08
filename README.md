@@ -2,7 +2,7 @@ Ninja Diskspace Module
 ======================
 
 ## Installation
-### Step 1 - fetch module (must be on develop branch)
+### Step 1 - fetch driver
 ```
 cd PATH_TO_NINJA_CLIENT/drivers
 git clone https://github.com/paulcull/ninja-diskspace.git
